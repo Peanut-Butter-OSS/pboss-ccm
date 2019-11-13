@@ -10,4 +10,7 @@
   <artifactId>src</artifactId>
   <packaging>pom</packaging>
   <name>PBOSS CCM - Source Code</name>
+  	<modules>
+		<module>ccm-model</module>
+	</modules>
 </project>
